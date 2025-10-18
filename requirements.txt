@@ -1,0 +1,6 @@
+opencv-python
+numpy
+redis>=4.3
+minio
+tqdm
+python-dotenv

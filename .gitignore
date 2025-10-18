@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Local environment and secrets
+.env
+.git-filter-replace.txt
+
+# Local outputs
+output_videos/
+minio-data/
+
+# IDE
+.vscode/
+.idea/
